@@ -1,4 +1,4 @@
-validate_type_image_upload
+#Validate Type Image JS
 ==========================
 
-Simple Validate Upload Type Image 
+Simple Validate Upload Type Image Javascript
